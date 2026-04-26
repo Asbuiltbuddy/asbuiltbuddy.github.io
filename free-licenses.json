@@ -1,3 +1,10 @@
+
 {
-  "freeLicenses": []
+  "freeLicenses": [
+    {
+      "autodeskUserId": "VGK2PS73EAUL",
+      "name": "Steven test licence",
+      "expires": "2026-12-31"
+    }
+  ]
 }
